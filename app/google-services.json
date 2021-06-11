@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "81413267368",
+    "project_id": "social-hub-9f57a",
+    "storage_bucket": "social-hub-9f57a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:81413267368:android:a1c8816dcf594452da879d",
+        "android_client_info": {
+          "package_name": "com.example.socialhub"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "81413267368-1v5fabepdc0r20suo98k3joca7lqlcp2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBjNjcqkIr1ab-8aXZXd4tOhhj3XJDVI3Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "81413267368-1v5fabepdc0r20suo98k3joca7lqlcp2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
